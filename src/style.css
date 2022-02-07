@@ -1,18 +1,23 @@
 .cen{
-    width:300px;
+    width:296px;
     height: 400px;
     margin-top: 10%;
     margin-left: 30%;
     border: 1px solid rgb(100,100,106);
     border-radius: 5px;
+    background-color:rgb(96,96,103) ;
 }
 .large{
-    padding:7.2% 19.4%;
+    padding:7.5% 24.6%;
+}
+.lef{
+    margin-left: -4px;
 }
 .full{
     text-align: right;
-    padding:6% 19.8%;
+    padding:6% 19.6%;
     background-color: rgb(45,45,54);
+    border-top-right-radius: 5px;
 }
 .dark{
     background-color: rgb(66,66,73);
@@ -20,12 +25,9 @@
 .yellow{
     background-color: rgb(254,159,11);
 }
-.lef{
-    margin-left:-4px;
-}
-
 button{
     font-size: 20px;
+    width: 74px;
     padding: 22px 28px 22px 25px;
     background-color: rgb(96,96,103);
     color: white;
