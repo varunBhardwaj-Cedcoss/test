@@ -1,0 +1,33 @@
+.cen{
+    width:300px;
+    height: 400px;
+    margin-top: 10%;
+    margin-left: 30%;
+    border: 1px solid rgb(100,100,106);
+    border-radius: 5px;
+}
+.large{
+    padding:7.2% 19.4%;
+}
+.full{
+    text-align: right;
+    padding:6% 19.8%;
+    background-color: rgb(45,45,54);
+}
+.dark{
+    background-color: rgb(66,66,73);
+}
+.yellow{
+    background-color: rgb(254,159,11);
+}
+.lef{
+    margin-left:-4px;
+}
+
+button{
+    font-size: 20px;
+    padding: 22px 28px 22px 25px;
+    background-color: rgb(96,96,103);
+    color: white;
+    border: 1px solid rgb(72,59,47);
+}
